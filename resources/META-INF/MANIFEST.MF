@@ -1,0 +1,321 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/enemySheet3.png
+SHA1-Digest: wk7oEx3paUKkjKfer+F5DOnBHQk=
+
+Name: assets/play8.jpg
+SHA1-Digest: V0HPOzUeXvU/anJjVo4qhySZSHs=
+
+Name: assets/bread3.png
+SHA1-Digest: DdjOUUS40azHFxrg+tEF6263qvA=
+
+Name: assets/soldierSheet4.png
+SHA1-Digest: oM+IBjH8HF6YhWMQ0/h0L1XmoPQ=
+
+Name: assets/workerSheet.png
+SHA1-Digest: MKjqFihnyGU6HcuDOptuTYJAtSk=
+
+Name: assets/credits1.jpg
+SHA1-Digest: NxZbqkmxjdYMo4XxXar48NHHSnQ=
+
+Name: assets/healthBarFull.png
+SHA1-Digest: Kt03zEOeebTwaDc2Tuwg31uQfco=
+
+Name: assets/credits7.jpg
+SHA1-Digest: pF0F4ASNwrpQIKO3n5sjS7oyap8=
+
+Name: AntGame.gwt.xml
+SHA1-Digest: dsgWrm7w9gmAhxjAnXWxs6qqxM4=
+
+Name: assets/mainMenu.jpg
+SHA1-Digest: mCBxS989johfaslB5cPZDNrZKpo=
+
+Name: lib/armeabi/libandroidgl20.so
+SHA1-Digest: T3Re9lHBRQ177kCvIUyqP94xG6k=
+
+Name: assets/credits8.jpg
+SHA1-Digest: Qm4/5Jy5R4t4FYitPnCtlk7Js2c=
+
+Name: assets/enemySheet.png
+SHA1-Digest: 9EQNqHEdaxvmC8wp3Zc8AezC+bs=
+
+Name: assets/options3.jpg
+SHA1-Digest: zUeVCHrLfsraaK7CHqZSjxeoK/o=
+
+Name: assets/gameOver.jpg
+SHA1-Digest: JWDmaZDTZZ1BV4TqIktRHn/J7Bk=
+
+Name: com/badlogic/gdx/utils/arial-15.png
+SHA1-Digest: cNIREcVEJ4mg/sQa8fTMElWnwwo=
+
+Name: assets/queenButton.png
+SHA1-Digest: +ek5KePMnDTv65rC4YFHs4aDXuA=
+
+Name: assets/play10.jpg
+SHA1-Digest: LO+faokjdb6wDvu6b7GRdo3X02M=
+
+Name: assets/credits3.jpg
+SHA1-Digest: LNykp1qmR9DzdGiNv3PfDNbEIls=
+
+Name: assets/credits9.jpg
+SHA1-Digest: rATthnQF/qOWDeuwK4dsQDt6XqY=
+
+Name: assets/play5.jpg
+SHA1-Digest: qJQin0fEffO6+EPBCcZ6HJpXTss=
+
+Name: assets/GameScreen3.jpg
+SHA1-Digest: B9nQj4eAkRMv8SRXq0UZSFyialA=
+
+Name: assets/healthBarFullV.png
+SHA1-Digest: trCfy7YpmBEwbjtv3AHjd2E8OU0=
+
+Name: assets/healthBar1.png
+SHA1-Digest: vx98PH5slwjUZJNMOX3aeUrqtv8=
+
+Name: assets/queenSheet.png
+SHA1-Digest: 34SeYACTK2rQ4CJf9aLvYkU5lc4=
+
+Name: assets/healthBar2V.png
+SHA1-Digest: y4uUk3rT+1FYXd+oRWJOY49Ne68=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: EJOHqdXbl6hVQqqBEAw9gljMEq0=
+
+Name: assets/credits4.jpg
+SHA1-Digest: JBHD0udTUYQ0HC2tHjtrJz4iULE=
+
+Name: assets/play4.jpg
+SHA1-Digest: icboWC4Je4wP68jNXGeSF7MXL8c=
+
+Name: assets/soundButtonOff.png
+SHA1-Digest: iXESD4EqNq7+td/WeXSubeXkTdg=
+
+Name: resources.arsc
+SHA1-Digest: bpzavOLQ15yd8umKAz98e6C5EwE=
+
+Name: assets/bread2.png
+SHA1-Digest: 02mI4O1rvOBf3udT9l9UOY1iWrM=
+
+Name: assets/audioButtonOff.png
+SHA1-Digest: y/wZyYFUJvQE6+SCM0XTktVwhCA=
+
+Name: assets/warriorButton.png
+SHA1-Digest: gCkN69jrMD0WkkurqEUPARchE18=
+
+Name: assets/alert.png
+SHA1-Digest: MZRKk49Q8w9FAI0w/mH+1wkTVeI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: GSf/ZCm+XUmAe0sw+fudi2t8bgo=
+
+Name: assets/healthBar4V.png
+SHA1-Digest: ODg7Y3mkUu6GeU1d7hLGW23KnYw=
+
+Name: assets/workerBusySheet1.png
+SHA1-Digest: /eaKmNS9NHOnadUBEfhUVbNGFfM=
+
+Name: assets/soldierSheet5.png
+SHA1-Digest: NZimcM/zYLF8FAXPkuxywZNg640=
+
+Name: assets/play7.jpg
+SHA1-Digest: 2gZUgbudzdvMrKM8R9qJrXAb7Sg=
+
+Name: assets/ambient.mp3
+SHA1-Digest: a2oti+z50rzq47f4Ki8tV/JA0LA=
+
+Name: com/esotericsoftware/TableLayout.gwt.xml
+SHA1-Digest: Fdk2jjlL+qoZnN5vP80Q2WzEqQI=
+
+Name: assets/soldierSheet1.png
+SHA1-Digest: /vzyojGzpS8WBoOZy5mHcboQzFE=
+
+Name: assets/options1.jpg
+SHA1-Digest: ePGoL3hx8DKkfLcyq/m5+tuvT9Y=
+
+Name: assets/enemySheet2.png
+SHA1-Digest: ebjcnEyCHFgwFpWI9oxkgc3olFE=
+
+Name: assets/soldierSheet2.png
+SHA1-Digest: K1Zz9mtK/jCYXxYG0pwtYYlfVbw=
+
+Name: classes.dex
+SHA1-Digest: 2abICjluv9pQ5kW3ZJ9OzhzeBbw=
+
+Name: assets/enemySheet4.png
+SHA1-Digest: FxTdy1HYm4pLv1vN3Z7vGMUVBQU=
+
+Name: assets/workerBusySheet3.png
+SHA1-Digest: s0WwQOGYbDG7+OXksnX3SxTWhxs=
+
+Name: assets/play1.jpg
+SHA1-Digest: 8PsQO0kcGkQiGkI2QcWfrY1w/rw=
+
+Name: assets/healthBar4.png
+SHA1-Digest: thalAYIwuen1tBkeNBh2WXngPEU=
+
+Name: assets/audioButtonOn.png
+SHA1-Digest: RmRRySRUz4Kh5FfzV5XH+Y+7oY4=
+
+Name: assets/options7.jpg
+SHA1-Digest: zNC62QKIs/XGOr9MfZISwcnn0CI=
+
+Name: assets/soldierSheet3.png
+SHA1-Digest: eyQozlxO9l0GVbtM4C2hwTPS8yA=
+
+Name: assets/bread1.png
+SHA1-Digest: VaaNWkfLPypKi1IdBlz+cRzNyO8=
+
+Name: assets/soldierSheet6.png
+SHA1-Digest: YPRLl8E+6fWAoJLyJe2438pVh+g=
+
+Name: assets/options2.jpg
+SHA1-Digest: NK1OJwo4WYbZZOesgrnsz4C0qTo=
+
+Name: assets/options10.jpg
+SHA1-Digest: SqqekRqGZr/rhWMUgIHlVyEhSYQ=
+
+Name: assets/enemySheet5.png
+SHA1-Digest: nRuaTbPLUbn4s7GIdHd9LUHDr/M=
+
+Name: assets/workerBusySheet5.png
+SHA1-Digest: luzdIeQ5tyu0ggy0maKmeirBwlI=
+
+Name: lib/armeabi/libgdx.so
+SHA1-Digest: YKN1BOPeOtL/dE2u6w2YTidp5Ts=
+
+Name: assets/options6.jpg
+SHA1-Digest: Spb18e+DSPgS44CxlEThewfw0i8=
+
+Name: assets/options9.jpg
+SHA1-Digest: co0jScVpTB5P91+L+/cnXHYsfSo=
+
+Name: res/layout/main.xml
+SHA1-Digest: nCSPDd66Y48cH3EZ6OYC/H1I1Ug=
+
+Name: assets/healthBar1V.png
+SHA1-Digest: bL7NzAypxhnjB7ilJV0vQnkE9jA=
+
+Name: assets/warriorButton2.png
+SHA1-Digest: s1YsSDikUBCX4umh9EnE9KJi1TM=
+
+Name: assets/GameScreen2.jpg
+SHA1-Digest: UrlmXRrd/plBJXyHzkpvGXl/ZbY=
+
+Name: assets/credits10.jpg
+SHA1-Digest: 5oWY2UKcjx5QivMAnP2751hI9TU=
+
+Name: assets/workerSheet5.png
+SHA1-Digest: 8QW+VW57IDJWdgkG0TUOi/g/AvU=
+
+Name: assets/GameScreen1.jpg
+SHA1-Digest: imngGVMAqA6/YhfGk4BbS6HeoEU=
+
+Name: assets/play9.jpg
+SHA1-Digest: Mk2CTeVF9xrCivkfvybLBKDcEfU=
+
+Name: assets/workerBusySheet2.png
+SHA1-Digest: T7H+bmTENRjmIBzG0qiBGQQMMfc=
+
+Name: assets/play3.jpg
+SHA1-Digest: RtCkoikN6rhDevD46wEM3lsfBlE=
+
+Name: com/badlogic/gdx/utils/arial-15.fnt
+SHA1-Digest: lJMEBO6KXBGAB7uP2j2Odqe+ijQ=
+
+Name: assets/bread4.png
+SHA1-Digest: +coBQaMtUt1w2mY5cM7NQVno6Cc=
+
+Name: assets/credits5.jpg
+SHA1-Digest: DjujSE6twqkd+rA/xXGFTT6C9oo=
+
+Name: assets/background.jpg
+SHA1-Digest: TaCRFBCqhv2SzpZYH7t5fPSmVR4=
+
+Name: assets/options5.jpg
+SHA1-Digest: Iz3xvuhUu5gHk/IFgIZuf2TfoxA=
+
+Name: assets/healthBar3V.png
+SHA1-Digest: g5hvrS0DQipYI9kK4L3Gdmh5GTs=
+
+Name: assets/data/libgdx.png
+SHA1-Digest: e7Shc5+Rpz/ZoL4zRXuleVAcgFA=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: tlImCdtUrTMjJ5hFygsD2RWPeVc=
+
+Name: assets/enemy.png
+SHA1-Digest: ObjCAwdDUPtNzePGzZEVX+gYnYE=
+
+Name: assets/credits6.jpg
+SHA1-Digest: P3gd1RgbUDPOACzdUSbMxwOtVzc=
+
+Name: assets/play2.jpg
+SHA1-Digest: Tk8Mi9ectZeFV+gyfKuI2de0IHc=
+
+Name: assets/play6.jpg
+SHA1-Digest: YqrKuiPykUpOw1bxUSaGWIs7j6M=
+
+Name: assets/options4.jpg
+SHA1-Digest: nzyQFryK5WTfCznnFPoIKmEplpI=
+
+Name: assets/GameScreen4.jpg
+SHA1-Digest: vt5tzRrHbz7p8I+LI4EkTN3dkQE=
+
+Name: assets/workerSheet3.png
+SHA1-Digest: NBbz7DguUzLXL7LhB0p5rSvHtWc=
+
+Name: assets/healthBar3.png
+SHA1-Digest: qYqCRl0bFVYblEtxoxkxqbVRhtA=
+
+Name: com/badlogic/gdx.gwt.xml
+SHA1-Digest: mhwRYJ6oEQgLWfpvBoZCNSpvzpY=
+
+Name: assets/workerSheet6.png
+SHA1-Digest: BnB6NJURwS86zDVXZkEPqd2yvXc=
+
+Name: assets/workerBusySheet4.png
+SHA1-Digest: R/gP8PRqB1EniAPF3yt4igcp9Bk=
+
+Name: assets/healthBar2.png
+SHA1-Digest: QUQMK5Ai6Lr9Hg+SxlJROeDIMA0=
+
+Name: assets/credits2.jpg
+SHA1-Digest: 45T6aESaPzjU8azmN9XWNwhDmDs=
+
+Name: assets/workerBusySheet6.png
+SHA1-Digest: wyZ8PtRpWeedhJZDgaa6c5jm7Dg=
+
+Name: lib/armeabi-v7a/libandroidgl20.so
+SHA1-Digest: T3Re9lHBRQ177kCvIUyqP94xG6k=
+
+Name: assets/queenButton2.png
+SHA1-Digest: pkMJbMRuJV+4ZyYsLzh1CuOskTo=
+
+Name: assets/workerSheet2.png
+SHA1-Digest: nbRQcboCuuErh5FP7gKCIOD1cpg=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: AJAwpcIknTVPiFnm9rwKF0RL43U=
+
+Name: assets/foodButton2.png
+SHA1-Digest: Kjd5kL6Ke/zYibX5CXwt6KVt0O0=
+
+Name: assets/enemySheet6.png
+SHA1-Digest: jTjnpebGeI2GCtdyOkRhQ9GWqoE=
+
+Name: lib/armeabi-v7a/libgdx.so
+SHA1-Digest: A8i4AsKYZAlXBaGll0PNVYzkbMQ=
+
+Name: assets/options8.jpg
+SHA1-Digest: 875p8hWSWpUJ0k2rAiODxjiZE+o=
+
+Name: assets/soundButtonOn.png
+SHA1-Digest: Myo1c+bpBE5o51KYta2dw3Rkmxg=
+
+Name: assets/foodButton.png
+SHA1-Digest: JyeXT5cisB6ReHel/x0vY49NZjY=
+
+Name: assets/workerSheet4.png
+SHA1-Digest: FDUkiHL7wUvgb0MIl/1y/W13hEE=
+
